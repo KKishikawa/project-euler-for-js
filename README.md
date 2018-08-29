@@ -11,3 +11,5 @@ Javascriptの初学者が、project eulerのコードを学習するために作
 ```
 node 001-020/001.js
 ```
+
+Project Euler: https://projecteuler.net/about
