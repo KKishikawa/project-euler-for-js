@@ -1,9 +1,9 @@
-# project-euler-for-js
-Project Euler solution with Javascript
+# project-euler-for-js-ruby
+Project Euler solution
 
-This repository for studying javascript (beginner)
+This repository for studying javascript, ruby (beginner)
 
-Javascriptの初学者が、project eulerのコードを学習するために作成したリポジトリです。
+プログラミングの初学者が、project eulerのコードを学習するために作成したリポジトリです。
 
 ## Run a Code
 
