@@ -1,9 +1,7 @@
 ans = 0
 
-for i in 0..1000
-  if (i % 3).zero? || (i % 5).zero?
-    ans += i
-  end
+(0...1000).each do |i|
+  ans += i if (i % 3).zero? || (i % 5).zero?
 end
 
 puts ans
