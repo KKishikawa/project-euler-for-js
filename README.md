@@ -3,7 +3,7 @@ Project Euler solution
 
 This repository for studying javascript, ruby (beginner)
 
-プログラミングの初学者が、project eulerのコードを学習するために作成したリポジトリです。
+プログラミングの初学者が、project eulerを利用してコードを学習するために作成したリポジトリです。
 
 ## Run a Code
 
