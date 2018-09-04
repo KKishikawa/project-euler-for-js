@@ -2,7 +2,7 @@
 prime_nums = []
 product = 1
 
-(2...20).each do |i|
+(2..20).each do |i|
   # 既に約数に含まれていれば次の数字を検証する
   next if (product % i).zero?
   divided = i
