@@ -20,5 +20,5 @@ coll = [0, 1, 2]
   end
 end
 
-puts maximum #解答
+puts maximum # 解答
 puts length
