@@ -1,6 +1,6 @@
 nums = []
 # 問題を読み込む
-File.open('./001-020/018.data.txt') do |f|
+File.open(File.expand_path('018.data.txt', __dir__), 'r') do |f|
   f.each do |line|
     nums << line.split(' ').map(&:to_i)
   end

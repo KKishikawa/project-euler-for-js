@@ -1,6 +1,7 @@
 //ファイルからデータを読み込む
+let path = require('path');
 let fs = require('fs');
-let input_raw = fs.readFileSync('./001-020/018.data.txt', 'utf-8');
+let input_raw = fs.readFileSync(path.join(__dirname, './018.data.txt'), 'utf-8');
 // 改行コードのCRLF or CR or LFで分割する
 let input = input_raw.split(/\r\n|\r|\n/);
 let nums = input.map(x => x.split(' ').map(y => parseInt(y, 10)));
