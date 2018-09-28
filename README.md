@@ -9,17 +9,17 @@ studying javascript, ruby, python
 
 <code-caption>Javascript (need Node.js)</code-caption>
 ```
-node 001-020/001.js
+node 001-010/001.js
 ```
 
 <code-caption>Ruby</code-caption>
 ```
-ruby 001-020/001.rb
+ruby 001-010/001.rb
 ```
 
 <code-caption>python (python 3.x)</code-caption>
 ```
-python 001-020/001.py
+python 001-010/001.py
 ```
 
 
