@@ -1,4 +1,4 @@
-# project-euler-for-js-ruby
+# project-euler-for-study
 Project Euler solution
 
 studying javascript, ruby, python
